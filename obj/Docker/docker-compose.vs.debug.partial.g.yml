@@ -1,0 +1,28 @@
+version: '3.4'
+
+services:
+  loanapplications.projections.sql:
+    image: loanapplicationsprojectionssql:dev
+    container_name: LoanApplications.Projections.Sql
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "LoanApplications.Projections.Sql"
+    environment:
+      - NUGET_FALLBACK_PACKAGES=
+    volumes:
+      - C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Projections.Sql:/app
+      - C:\Users\14\source\repos\LoanApplications:/src
+      - C:\Users\14\vsdbg\vs2017u5:/remote_debugger:rw
+      - C:\Users\14\.nuget\packages\:/root/.nuget/packages:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+      - C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Sdks\Microsoft.Docker.Sdk\tools\TokenService.Proxy\linux-x64\net7.0:/TokenService.Proxy:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/app/bin/Debug/net7.0/LoanApplications.Projections.Sql.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

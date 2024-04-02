@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\14\\source\\repos\\LoanApplications\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB859B5-DAF3-4D81-9C95-DD6C475828C6}|src\\LoanApplications.Projections.Sql\\LoanApplications.Projections.Sql.csproj|c:\\users\\14\\source\\repos\\loanapplications\\src\\loanapplications.projections.sql\\framework\\fakecursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB859B5-DAF3-4D81-9C95-DD6C475828C6}|src\\LoanApplications.Projections.Sql\\LoanApplications.Projections.Sql.csproj|solutionrelative:src\\loanapplications.projections.sql\\framework\\fakecursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB859B5-DAF3-4D81-9C95-DD6C475828C6}|src\\LoanApplications.Projections.Sql\\LoanApplications.Projections.Sql.csproj|c:\\users\\14\\source\\repos\\loanapplications\\src\\loanapplications.projections.sql\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB859B5-DAF3-4D81-9C95-DD6C475828C6}|src\\LoanApplications.Projections.Sql\\LoanApplications.Projections.Sql.csproj|solutionrelative:src\\loanapplications.projections.sql\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB859B5-DAF3-4D81-9C95-DD6C475828C6}|src\\LoanApplications.Projections.Sql\\LoanApplications.Projections.Sql.csproj|c:\\users\\14\\source\\repos\\loanapplications\\src\\loanapplications.projections.sql\\projectionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB859B5-DAF3-4D81-9C95-DD6C475828C6}|src\\LoanApplications.Projections.Sql\\LoanApplications.Projections.Sql.csproj|solutionrelative:src\\loanapplications.projections.sql\\projectionmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB859B5-DAF3-4D81-9C95-DD6C475828C6}|src\\LoanApplications.Projections.Sql\\LoanApplications.Projections.Sql.csproj|c:\\users\\14\\source\\repos\\loanapplications\\src\\loanapplications.projections.sql\\framework\\icursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB859B5-DAF3-4D81-9C95-DD6C475828C6}|src\\LoanApplications.Projections.Sql\\LoanApplications.Projections.Sql.csproj|solutionrelative:src\\loanapplications.projections.sql\\framework\\icursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FABFF3-C568-4579-A5A1-83079B490E73}|..\\EventSourcingCourse\\Framework.Persistence.ES\\Framework.Persistence.ES.csproj|c:\\users\\14\\source\\repos\\eventsourcingcourse\\framework.persistence.es\\eventstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F4DD4-C962-4AA0-B865-5960A1B02593}|framework\\Framework.Core\\Framework.Core.csproj|c:\\users\\14\\source\\repos\\loanapplications\\framework\\framework.core\\events\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F4DD4-C962-4AA0-B865-5960A1B02593}|framework\\Framework.Core\\Framework.Core.csproj|solutionrelative:framework\\framework.core\\events\\ieventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8895F1D2-1439-4DDE-92FF-D7CC7E2A7811}|framework\\Framework.Domain\\Framework.Domain.csproj|c:\\users\\14\\source\\repos\\loanapplications\\framework\\framework.domain\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8895F1D2-1439-4DDE-92FF-D7CC7E2A7811}|framework\\Framework.Domain\\Framework.Domain.csproj|solutionrelative:framework\\framework.domain\\domainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851F4DD4-C962-4AA0-B865-5960A1B02593}|framework\\Framework.Core\\Framework.Core.csproj|c:\\users\\14\\source\\repos\\loanapplications\\framework\\framework.core\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851F4DD4-C962-4AA0-B865-5960A1B02593}|framework\\Framework.Core\\Framework.Core.csproj|solutionrelative:framework\\framework.core\\events\\ievent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectionModule.cs",
+              "DocumentMoniker": "C:\\Users\\14\\source\\repos\\LoanApplications\\src\\LoanApplications.Projections.Sql\\ProjectionModule.cs",
+              "RelativeDocumentMoniker": "src\\LoanApplications.Projections.Sql\\ProjectionModule.cs",
+              "ToolTip": "C:\\Users\\14\\source\\repos\\LoanApplications\\src\\LoanApplications.Projections.Sql\\ProjectionModule.cs",
+              "RelativeToolTip": "src\\LoanApplications.Projections.Sql\\ProjectionModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:59:42.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FakeCursor.cs",
+              "DocumentMoniker": "C:\\Users\\14\\source\\repos\\LoanApplications\\src\\LoanApplications.Projections.Sql\\Framework\\FakeCursor.cs",
+              "RelativeDocumentMoniker": "src\\LoanApplications.Projections.Sql\\Framework\\FakeCursor.cs",
+              "ToolTip": "C:\\Users\\14\\source\\repos\\LoanApplications\\src\\LoanApplications.Projections.Sql\\Framework\\FakeCursor.cs",
+              "RelativeToolTip": "src\\LoanApplications.Projections.Sql\\Framework\\FakeCursor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:58:41.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventStoreDb.cs",
+              "DocumentMoniker": "C:\\Users\\14\\source\\repos\\EventSourcingCourse\\Framework.Persistence.ES\\EventStoreDb.cs",
+              "RelativeDocumentMoniker": "..\\EventSourcingCourse\\Framework.Persistence.ES\\EventStoreDb.cs",
+              "ToolTip": "C:\\Users\\14\\source\\repos\\EventSourcingCourse\\Framework.Persistence.ES\\EventStoreDb.cs",
+              "RelativeToolTip": "..\\EventSourcingCourse\\Framework.Persistence.ES\\EventStoreDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:53:21.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICursor.cs",
+              "DocumentMoniker": "C:\\Users\\14\\source\\repos\\LoanApplications\\src\\LoanApplications.Projections.Sql\\Framework\\ICursor.cs",
+              "RelativeDocumentMoniker": "src\\LoanApplications.Projections.Sql\\Framework\\ICursor.cs",
+              "ToolTip": "C:\\Users\\14\\source\\repos\\LoanApplications\\src\\LoanApplications.Projections.Sql\\Framework\\ICursor.cs",
+              "RelativeToolTip": "src\\LoanApplications.Projections.Sql\\Framework\\ICursor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T08:24:36.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\14\\source\\repos\\LoanApplications\\src\\LoanApplications.Projections.Sql\\Worker.cs",
+              "RelativeDocumentMoniker": "src\\LoanApplications.Projections.Sql\\Worker.cs",
+              "ToolTip": "C:\\Users\\14\\source\\repos\\LoanApplications\\src\\LoanApplications.Projections.Sql\\Worker.cs",
+              "RelativeToolTip": "src\\LoanApplications.Projections.Sql\\Worker.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T07:15:33.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\14\\source\\repos\\LoanApplications\\framework\\Framework.Core\\Events\\IEventHandler.cs",
+              "RelativeDocumentMoniker": "framework\\Framework.Core\\Events\\IEventHandler.cs",
+              "ToolTip": "C:\\Users\\14\\source\\repos\\LoanApplications\\framework\\Framework.Core\\Events\\IEventHandler.cs",
+              "RelativeToolTip": "framework\\Framework.Core\\Events\\IEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T06:25:45.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DomainEvent.cs",
+              "DocumentMoniker": "C:\\Users\\14\\source\\repos\\LoanApplications\\framework\\Framework.Domain\\DomainEvent.cs",
+              "RelativeDocumentMoniker": "framework\\Framework.Domain\\DomainEvent.cs",
+              "ToolTip": "C:\\Users\\14\\source\\repos\\LoanApplications\\framework\\Framework.Domain\\DomainEvent.cs",
+              "RelativeToolTip": "framework\\Framework.Domain\\DomainEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:59:07.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEvent.cs",
+              "DocumentMoniker": "C:\\Users\\14\\source\\repos\\LoanApplications\\framework\\Framework.Core\\Events\\IEvent.cs",
+              "RelativeDocumentMoniker": "framework\\Framework.Core\\Events\\IEvent.cs",
+              "ToolTip": "C:\\Users\\14\\source\\repos\\LoanApplications\\framework\\Framework.Core\\Events\\IEvent.cs",
+              "RelativeToolTip": "framework\\Framework.Core\\Events\\IEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:57:34.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

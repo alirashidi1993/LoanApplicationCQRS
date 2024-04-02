@@ -1,0 +1,12 @@
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\bin\Debug\net6.0\Framework.Application.deps.json
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\bin\Debug\net6.0\Framework.Application.dll
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\bin\Debug\net6.0\Framework.Application.pdb
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\Framework.Application.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\Framework.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\Framework.Application.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\Framework.Application.AssemblyInfo.cs
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\Framework.Application.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\Framework.Application.dll
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\refint\Framework.Application.dll
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\Framework.Application.pdb
+C:\Users\14\source\repos\EventSourcingCourse\Framework.Application\obj\Debug\net6.0\ref\Framework.Application.dll

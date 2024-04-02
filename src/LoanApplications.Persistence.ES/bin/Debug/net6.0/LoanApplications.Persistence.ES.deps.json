@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LoanApplications.Persistence.ES/1.0.0": {
+        "dependencies": {
+          "LoanApplications.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LoanApplications.Persistence.ES.dll": {}
+        }
+      },
+      "Framework.Core/1.0.0": {
+        "runtime": {
+          "Framework.Core.dll": {}
+        }
+      },
+      "Framework.Domain/1.0.0": {
+        "dependencies": {
+          "Framework.Core": "1.0.0"
+        },
+        "runtime": {
+          "Framework.Domain.dll": {}
+        }
+      },
+      "LoanApplications.Domain/1.0.0": {
+        "dependencies": {
+          "Framework.Domain": "1.0.0",
+          "LoanApplications.Domain.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "LoanApplications.Domain.dll": {}
+        }
+      },
+      "LoanApplications.Domain.Contracts/1.0.0": {
+        "dependencies": {
+          "Framework.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LoanApplications.Domain.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoanApplications.Persistence.ES/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Framework.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Framework.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoanApplications.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoanApplications.Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

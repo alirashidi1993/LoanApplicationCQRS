@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\EventSourcingCourse\Framework.Application\Framework.Application.csproj" />
+    <ProjectReference Include="..\LoanApplications.Application.Contracts\LoanApplications.Application.Contracts.csproj" />
+    <ProjectReference Include="..\LoanApplications.Domain\LoanApplications.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

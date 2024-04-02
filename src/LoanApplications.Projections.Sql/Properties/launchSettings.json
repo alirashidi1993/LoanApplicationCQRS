@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "LoanApplications.Projections.Sql": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

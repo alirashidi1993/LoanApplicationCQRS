@@ -1,0 +1,15 @@
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\bin\Debug\net7.0\LoanApplications.Application.Contracts.deps.json
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\bin\Debug\net7.0\LoanApplications.Application.Contracts.dll
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\bin\Debug\net7.0\LoanApplications.Application.Contracts.pdb
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\bin\Debug\net7.0\Framework.Application.dll
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\bin\Debug\net7.0\Framework.Application.pdb
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\LoanApplications.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\LoanApplications.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\LoanApplications.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\LoanApplications.Application.Contracts.AssemblyInfo.cs
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\LoanApplications.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\LoanApplications.Application.Contracts.csproj.CopyComplete
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\LoanApplications.Application.Contracts.dll
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\refint\LoanApplications.Application.Contracts.dll
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\LoanApplications.Application.Contracts.pdb
+C:\Users\14\source\repos\LoanApplications\src\LoanApplications.Application.Contracts\obj\Debug\net7.0\ref\LoanApplications.Application.Contracts.dll
